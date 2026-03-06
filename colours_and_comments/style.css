@@ -1,0 +1,25 @@
+h1{
+    /* using colour names */
+    /* color: blube; */
+    font-size: 35px;
+    /* background-color:red; */
+    text-transform: uppercase;
+    /* rgb */
+    /* color: rgb(125,125,125) */
+    /* hexadecimal */
+    color:#fff;)
+}
+body{
+    background-color:rgb(0,0,0)
+}
+
+p{
+    color: #fff;
+}
+
+div {
+    color:white;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
