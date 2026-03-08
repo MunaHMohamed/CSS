@@ -1,0 +1,26 @@
+h1{
+    border:brown 10px solid;
+    text-transform; uppercase;
+    border-radius: 15px;
+
+    outline-style: dashed;
+
+    outline-width: 10px;
+
+    outline-color: red;
+    outline-offset: 5px;
+}
+/* body{
+    background-color: blueviolet;
+}
+p{border-style: dashed;
+}
+div{
+    border-style: solid;
+}
+span{
+    border-style: dotted
+} */
+ /* *{
+    border-style: solid;
+ } */ 
