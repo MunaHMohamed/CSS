@@ -14,12 +14,13 @@ body{
 }
 
 p{
-    color: #fff;
+    color: #ffff00;
 }
 
 div {
     color:white;
     height: 200px;
     width: 200px;
-    background-color: blue;
+    background-color:rgba(255, 0, 0,05);
+    
 }
