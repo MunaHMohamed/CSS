@@ -1,0 +1,5 @@
+h1{color:black;
+background-color: red;
+text-transform: uppercase;}
+div,span,p{display: block;}
+div,span,p{text-transform: uppercase;}
